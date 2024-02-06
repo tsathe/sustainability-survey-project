@@ -1,0 +1,176 @@
+,factor,col,variable,mean
+0,non_cash_incentives,demographic_distribution,cornell,0.055399703981639
+1,non_cash_incentives,demographic_distribution,lahey,0.15507226303484323
+2,non_cash_incentives,demographic_distribution,lehigh,-0.4469189811180949
+3,non_cash_incentives,demographic_distribution,northwestern,0.12926300128189222
+4,non_cash_incentives,demographic_distribution,texastech,-0.008981191448677107
+5,non_cash_incentives,demographic_distribution,ucsf,-0.20350874725601717
+6,non_cash_incentives,demographic_distribution,und,0.24160880669111282
+7,non_cash_incentives,demographic_distribution,vanderbilt,0.20535699362597618
+8,non_cash_incentives,demographic_distribution,virginiamason,0.09910492453863325
+9,non_cash_incentives,demographic_distribution,washu,-0.00014458129953061498
+0,willingness,demographic_distribution,cornell,-0.05862820970253561
+1,willingness,demographic_distribution,lahey,-0.18986718864471377
+2,willingness,demographic_distribution,lehigh,-0.2592791548789193
+3,willingness,demographic_distribution,northwestern,0.33108428163397496
+4,willingness,demographic_distribution,texastech,-0.017947095693630125
+5,willingness,demographic_distribution,ucsf,-0.053943415090188476
+6,willingness,demographic_distribution,und,-0.5480632541620181
+7,willingness,demographic_distribution,vanderbilt,0.13967766018438604
+8,willingness,demographic_distribution,virginiamason,0.4368569005293613
+9,willingness,demographic_distribution,washu,0.013435839057568542
+0,attitude,demographic_distribution,cornell,-0.251721244171615
+1,attitude,demographic_distribution,lahey,0.0057621914206974125
+2,attitude,demographic_distribution,lehigh,-0.022742771049837397
+3,attitude,demographic_distribution,northwestern,-0.08130334598068634
+4,attitude,demographic_distribution,texastech,0.08896963430746738
+5,attitude,demographic_distribution,ucsf,0.45121236496660766
+6,attitude,demographic_distribution,und,-0.7069928339964934
+7,attitude,demographic_distribution,vanderbilt,0.16268524894611153
+8,attitude,demographic_distribution,virginiamason,0.4022048372279219
+9,attitude,demographic_distribution,washu,-0.29325840891666266
+0,cash_incentives,demographic_distribution,cornell,0.41697077147647094
+1,cash_incentives,demographic_distribution,lahey,-0.19869163837248915
+2,cash_incentives,demographic_distribution,lehigh,0.07499057389687809
+3,cash_incentives,demographic_distribution,northwestern,0.00548386217371352
+4,cash_incentives,demographic_distribution,texastech,0.37128024532069753
+5,cash_incentives,demographic_distribution,ucsf,-0.08068750810278713
+6,cash_incentives,demographic_distribution,und,-0.2132921458257274
+7,cash_incentives,demographic_distribution,vanderbilt,0.2585473750484092
+8,cash_incentives,demographic_distribution,virginiamason,0.20830125651631404
+9,cash_incentives,demographic_distribution,washu,-0.2630148515399781
+0,education,demographic_distribution,cornell,0.2191510725919324
+1,education,demographic_distribution,lahey,-0.1416290304966446
+2,education,demographic_distribution,lehigh,0.4161852616989844
+3,education,demographic_distribution,northwestern,-0.45067242807132296
+4,education,demographic_distribution,texastech,0.14429938209060006
+5,education,demographic_distribution,ucsf,0.024005593988299427
+6,education,demographic_distribution,und,0.08097999795309589
+7,education,demographic_distribution,vanderbilt,-0.3426608931323756
+8,education,demographic_distribution,virginiamason,0.2749816779424247
+9,education,demographic_distribution,washu,0.07826189792172603
+0,non_cash_incentives,demographic_us_region,Midwest,0.04531198145617747
+1,non_cash_incentives,demographic_us_region,Northeast,-0.0547915622771866
+2,non_cash_incentives,demographic_us_region,Southeast,0.20535699362597618
+3,non_cash_incentives,demographic_us_region,Southwest,-0.008981191448677107
+4,non_cash_incentives,demographic_us_region,West,-0.1382391317708965
+0,willingness,demographic_us_region,Midwest,0.04443962800680346
+1,willingness,demographic_us_region,Northeast,-0.16946168520106286
+2,willingness,demographic_us_region,Southeast,0.13967766018438604
+3,willingness,demographic_us_region,Southwest,-0.017947095693630125
+4,willingness,demographic_us_region,West,0.05191547651402815
+0,attitude,demographic_us_region,Midwest,-0.2752963200177723
+1,attitude,demographic_us_region,Northeast,-0.08316379293534024
+2,attitude,demographic_us_region,Southeast,0.16268524894611153
+3,attitude,demographic_us_region,Southwest,0.08896963430746738
+4,attitude,demographic_us_region,West,0.44064211388571467
+0,cash_incentives,demographic_us_region,Midwest,-0.20022634229758687
+1,cash_incentives,demographic_us_region,Northeast,0.07495227147277927
+2,cash_incentives,demographic_us_region,Southeast,0.2585473750484092
+3,cash_incentives,demographic_us_region,Southwest,0.37128024532069753
+4,cash_incentives,demographic_us_region,West,-0.01835659808690257
+0,education,demographic_us_region,Midwest,-0.03840605084199156
+1,education,demographic_us_region,Northeast,0.13671586971411306
+2,education,demographic_us_region,Southeast,-0.3426608931323756
+3,education,demographic_us_region,Southwest,0.14429938209060006
+4,education,demographic_us_region,West,0.07813769052742449
+0,non_cash_incentives,demographic_acs_trauma_region,1,0.15507226303484323
+1,non_cash_incentives,demographic_acs_trauma_region,10,0.09910492453863325
+2,non_cash_incentives,demographic_acs_trauma_region,2,0.055399703981639
+3,non_cash_incentives,demographic_acs_trauma_region,3,-0.4469189811180949
+4,non_cash_incentives,demographic_acs_trauma_region,4,0.20535699362597618
+5,non_cash_incentives,demographic_acs_trauma_region,5,0.12926300128189222
+6,non_cash_incentives,demographic_acs_trauma_region,6,-0.008981191448677107
+7,non_cash_incentives,demographic_acs_trauma_region,7,-0.00014458129953061498
+8,non_cash_incentives,demographic_acs_trauma_region,8,0.24160880669111282
+9,non_cash_incentives,demographic_acs_trauma_region,9,-0.20350874725601717
+0,willingness,demographic_acs_trauma_region,1,-0.18986718864471377
+1,willingness,demographic_acs_trauma_region,10,0.4368569005293613
+2,willingness,demographic_acs_trauma_region,2,-0.05862820970253561
+3,willingness,demographic_acs_trauma_region,3,-0.2592791548789193
+4,willingness,demographic_acs_trauma_region,4,0.13967766018438604
+5,willingness,demographic_acs_trauma_region,5,0.33108428163397496
+6,willingness,demographic_acs_trauma_region,6,-0.017947095693630125
+7,willingness,demographic_acs_trauma_region,7,0.013435839057568542
+8,willingness,demographic_acs_trauma_region,8,-0.5480632541620181
+9,willingness,demographic_acs_trauma_region,9,-0.053943415090188476
+0,attitude,demographic_acs_trauma_region,1,0.0057621914206974125
+1,attitude,demographic_acs_trauma_region,10,0.4022048372279219
+2,attitude,demographic_acs_trauma_region,2,-0.251721244171615
+3,attitude,demographic_acs_trauma_region,3,-0.022742771049837397
+4,attitude,demographic_acs_trauma_region,4,0.16268524894611153
+5,attitude,demographic_acs_trauma_region,5,-0.08130334598068634
+6,attitude,demographic_acs_trauma_region,6,0.08896963430746738
+7,attitude,demographic_acs_trauma_region,7,-0.29325840891666266
+8,attitude,demographic_acs_trauma_region,8,-0.7069928339964934
+9,attitude,demographic_acs_trauma_region,9,0.45121236496660766
+0,cash_incentives,demographic_acs_trauma_region,1,-0.19869163837248915
+1,cash_incentives,demographic_acs_trauma_region,10,0.20830125651631404
+2,cash_incentives,demographic_acs_trauma_region,2,0.41697077147647094
+3,cash_incentives,demographic_acs_trauma_region,3,0.07499057389687809
+4,cash_incentives,demographic_acs_trauma_region,4,0.2585473750484092
+5,cash_incentives,demographic_acs_trauma_region,5,0.00548386217371352
+6,cash_incentives,demographic_acs_trauma_region,6,0.37128024532069753
+7,cash_incentives,demographic_acs_trauma_region,7,-0.2630148515399781
+8,cash_incentives,demographic_acs_trauma_region,8,-0.2132921458257274
+9,cash_incentives,demographic_acs_trauma_region,9,-0.08068750810278713
+0,education,demographic_acs_trauma_region,1,-0.1416290304966446
+1,education,demographic_acs_trauma_region,10,0.2749816779424247
+2,education,demographic_acs_trauma_region,2,0.2191510725919324
+3,education,demographic_acs_trauma_region,3,0.4161852616989844
+4,education,demographic_acs_trauma_region,4,-0.3426608931323756
+5,education,demographic_acs_trauma_region,5,-0.45067242807132296
+6,education,demographic_acs_trauma_region,6,0.14429938209060006
+7,education,demographic_acs_trauma_region,7,0.07826189792172603
+8,education,demographic_acs_trauma_region,8,0.08097999795309589
+9,education,demographic_acs_trauma_region,9,0.024005593988299427
+0,non_cash_incentives,demographic_years_in_practice_group,Less than 5 years,0.166594131603652
+1,non_cash_incentives,demographic_years_in_practice_group,6-10 years,-0.0164864745164268
+2,non_cash_incentives,demographic_years_in_practice_group,11-15 years,-0.26867443293572263
+3,non_cash_incentives,demographic_years_in_practice_group,16-20 years,0.14068017460108298
+4,non_cash_incentives,demographic_years_in_practice_group,Greater than 20 years,-0.028195501557115015
+0,willingness,demographic_years_in_practice_group,Less than 5 years,-0.04418359315226133
+1,willingness,demographic_years_in_practice_group,6-10 years,0.12552243814969458
+2,willingness,demographic_years_in_practice_group,11-15 years,-0.35763876651999993
+3,willingness,demographic_years_in_practice_group,16-20 years,0.38172650528105667
+4,willingness,demographic_years_in_practice_group,Greater than 20 years,0.13709090813326003
+0,attitude,demographic_years_in_practice_group,Less than 5 years,-0.0043774581726629255
+1,attitude,demographic_years_in_practice_group,6-10 years,0.054161332108324
+2,attitude,demographic_years_in_practice_group,11-15 years,-0.009948276216904936
+3,attitude,demographic_years_in_practice_group,16-20 years,0.14940364343810555
+4,attitude,demographic_years_in_practice_group,Greater than 20 years,-0.04523920589506792
+0,cash_incentives,demographic_years_in_practice_group,Less than 5 years,0.14569457997003243
+1,cash_incentives,demographic_years_in_practice_group,6-10 years,0.3963040734693986
+2,cash_incentives,demographic_years_in_practice_group,11-15 years,0.018034349931769323
+3,cash_incentives,demographic_years_in_practice_group,16-20 years,0.29046892315729494
+4,cash_incentives,demographic_years_in_practice_group,Greater than 20 years,-0.36692596724931564
+0,education,demographic_years_in_practice_group,Less than 5 years,-0.0711790998630992
+1,education,demographic_years_in_practice_group,6-10 years,-0.20157405086875413
+2,education,demographic_years_in_practice_group,11-15 years,0.030525228232428613
+3,education,demographic_years_in_practice_group,16-20 years,0.08824052054615124
+4,education,demographic_years_in_practice_group,Greater than 20 years,0.1022436955694993
+0,non_cash_incentives,demographic_program_size,Small,0.11454287449290765
+1,non_cash_incentives,demographic_program_size,Medium,0.020322101674748835
+2,non_cash_incentives,demographic_program_size,Large,-0.08068484504467381
+0,willingness,demographic_program_size,Small,-0.06296264689607582
+1,willingness,demographic_program_size,Medium,0.052759296707473466
+2,willingness,demographic_program_size,Large,-0.013249014070256023
+0,attitude,demographic_program_size,Small,0.02696284067350349
+1,attitude,demographic_program_size,Medium,-0.018051515294401868
+2,attitude,demographic_program_size,Large,0.0015815015321572604
+0,cash_incentives,demographic_program_size,Small,0.015834785028762337
+1,cash_incentives,demographic_program_size,Medium,0.20220322078536443
+2,cash_incentives,demographic_program_size,Large,-0.1908060026539619
+0,education,demographic_program_size,Small,0.03356081181539877
+1,education,demographic_program_size,Medium,-0.08329718881982615
+2,education,demographic_program_size,Large,0.056774252799576874
+0,non_cash_incentives,demographic_leadership,False,0.016665977696879386
+1,non_cash_incentives,demographic_leadership,True,-0.031200260572064775
+0,willingness,demographic_leadership,False,-0.012683656689709603
+1,willingness,demographic_leadership,True,0.023744985198177946
+0,attitude,demographic_leadership,False,-0.014493236781399865
+1,attitude,demographic_leadership,True,0.0271326874628533
+0,cash_incentives,demographic_leadership,False,0.03972123768079176
+1,cash_incentives,demographic_leadership,True,-0.07436185193729689
+0,education,demographic_leadership,False,0.09339686468647132
+1,education,demographic_leadership,True,-0.17484761877351004

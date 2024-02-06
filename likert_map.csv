@@ -1,0 +1,172 @@
+,ID,Question,Numeric,Count_x,Text,QuestionNumber,QuestionSubNumber,Count_y,Count_x,Count_y
+0,Q2.2,How critical is the problem of operating room waste?,1,,Not at all critical,2,2,2,2,2
+1,Q2.2,How critical is the problem of operating room waste?,2,,Slightly critical,2,2,23,23,23
+2,Q2.2,How critical is the problem of operating room waste?,3,,Moderately critical,2,2,63,63,63
+3,Q2.2,How critical is the problem of operating room waste?,4,,Quite critical,2,2,70,70,70
+4,Q2.2,How critical is the problem of operating room waste?,5,,Extremely critical,2,2,78,78,78
+5,Q2.3,How motivated are you in improving the sustainability of your surgical practice?,1,,Not at all motivated,2,3,4,4,4
+6,Q2.3,How motivated are you in improving the sustainability of your surgical practice?,2,,Slightly motivated,2,3,26,26,26
+7,Q2.3,How motivated are you in improving the sustainability of your surgical practice?,3,,Moderately motivated,2,3,54,54,54
+8,Q2.3,How motivated are you in improving the sustainability of your surgical practice?,4,,Quite motivated,2,3,83,83,83
+9,Q2.3,How motivated are you in improving the sustainability of your surgical practice?,5,,Extremely motivated,2,3,69,69,69
+10,Q2.4,How much of a priority should operating room sustainability be for your institution?,1,,Not at all a priority,2,4,1,1,1
+11,Q2.4,How much of a priority should operating room sustainability be for your institution?,2,,Low priority,2,4,14,14,14
+12,Q2.4,How much of a priority should operating room sustainability be for your institution?,3,,Moderate priority,2,4,76,76,76
+13,Q2.4,How much of a priority should operating room sustainability be for your institution?,4,,Quite a high priority,2,4,106,106,106
+14,Q2.4,How much of a priority should operating room sustainability be for your institution?,5,,Top priority,2,4,39,39,39
+15,Q2.5,How well do you understand the environmental impact of your operations?,1,,Not very well,2,5,80,80,80
+16,Q2.5,How well do you understand the environmental impact of your operations?,2,,Slightly well,2,5,50,50,50
+17,Q2.5,How well do you understand the environmental impact of your operations?,3,,Moderately well,2,5,74,74,74
+18,Q2.5,How well do you understand the environmental impact of your operations?,4,,Quite well,2,5,23,23,23
+19,Q2.5,How well do you understand the environmental impact of your operations?,5,,Extremely well,2,5,8,8,8
+20,Q2.5,How well do you understand the environmental impact of your operations?,,,,2,5,,,
+21,Q2.6,How much effort does your institution put into teaching you about operating room sustainability?,1,,Not at a lot of effort,2,6,155,155,155
+22,Q2.6,How much effort does your institution put into teaching you about operating room sustainability?,2,,Slight effort,2,6,63,63,63
+23,Q2.6,How much effort does your institution put into teaching you about operating room sustainability?,3,,Moderate effort,2,6,15,15,15
+24,Q2.6,How much effort does your institution put into teaching you about operating room sustainability?,4,,Quite a bit of effort,2,6,3,3,3
+25,Q2.7,How well does the surgical team understand operating room sustainability?,1,,Not very well,2,7,136,136,136
+26,Q2.7,How well does the surgical team understand operating room sustainability?,2,,Slightly well,2,7,77,77,77
+27,Q2.7,How well does the surgical team understand operating room sustainability?,3,,Moderately well,2,7,19,19,19
+28,Q2.7,How well does the surgical team understand operating room sustainability?,4,,Quite well,2,7,3,3,3
+29,Q2.7,How well does the surgical team understand operating room sustainability?,5,,Extremely well,2,7,1,1,1
+30,Q2.8,Is it true that reusable items (such as ports) are just as safe as single use items?,1,,Not at all true,2,8,7,7,7
+31,Q2.8,Is it true that reusable items (such as ports) are just as safe as single use items?,2,,Slightly true,2,8,15,15,15
+32,Q2.8,Is it true that reusable items (such as ports) are just as safe as single use items?,3,,Moderately true,2,8,40,40,40
+33,Q2.8,Is it true that reusable items (such as ports) are just as safe as single use items?,4,,Quite true,2,8,106,106,106
+34,Q2.8,Is it true that reusable items (such as ports) are just as safe as single use items?,5,,Extremely true,2,8,67,67,67
+35,Q2.8,Is it true that reusable items (such as ports) are just as safe as single use items?,,,,2,8,,,
+36,Q2.9,Is it true that reprocessed instruments (such as a Ligasure) are just as safe as brand new (OEM) items?,1,,Not at all true,2,9,6,6,6
+37,Q2.9,Is it true that reprocessed instruments (such as a Ligasure) are just as safe as brand new (OEM) items?,2,,Slightly true,2,9,20,20,20
+38,Q2.9,Is it true that reprocessed instruments (such as a Ligasure) are just as safe as brand new (OEM) items?,3,,Moderately true,2,9,65,65,65
+39,Q2.9,Is it true that reprocessed instruments (such as a Ligasure) are just as safe as brand new (OEM) items?,4,,Quite true,2,9,102,102,102
+40,Q2.9,Is it true that reprocessed instruments (such as a Ligasure) are just as safe as brand new (OEM) items?,5,,Extremely true,2,9,42,42,42
+41,Q2.9,Is it true that reprocessed instruments (such as a Ligasure) are just as safe as brand new (OEM) items?,,,,2,9,,,
+42,Q2.10,How often does the surgical staff open too many items prior to surgery?,1,,Almost never,2,10,3,3,3
+43,Q2.10,How often does the surgical staff open too many items prior to surgery?,2,,Once in a while,2,10,28,28,28
+44,Q2.10,How often does the surgical staff open too many items prior to surgery?,3,,Sometimes,2,10,53,53,53
+45,Q2.10,How often does the surgical staff open too many items prior to surgery?,4,,Often,2,10,100,100,100
+46,Q2.10,How often does the surgical staff open too many items prior to surgery?,5,,Almost always,2,10,52,52,52
+47,Q2.11,How often do you use the majority of instruments and supplies on your preference card?,1,,Almost never,2,11,32,32,32
+48,Q2.11,How often do you use the majority of instruments and supplies on your preference card?,2,,Once in a while,2,11,22,22,22
+49,Q2.11,How often do you use the majority of instruments and supplies on your preference card?,3,,Sometimes,2,11,79,79,79
+50,Q2.11,How often do you use the majority of instruments and supplies on your preference card?,4,,Often,2,11,83,83,83
+51,Q2.11,How often do you use the majority of instruments and supplies on your preference card?,5,,Almost always,2,11,20,20,20
+52,Q2.12,Is it true that administrative roadblocks thwart your ability to make sustainable changes?,1,,Not at all true,2,12,20,20,20
+53,Q2.12,Is it true that administrative roadblocks thwart your ability to make sustainable changes?,2,,Slightly true,2,12,50,50,50
+54,Q2.12,Is it true that administrative roadblocks thwart your ability to make sustainable changes?,3,,Moderately true,2,12,68,68,68
+55,Q2.12,Is it true that administrative roadblocks thwart your ability to make sustainable changes?,4,,Quite true,2,12,53,53,53
+56,Q2.12,Is it true that administrative roadblocks thwart your ability to make sustainable changes?,5,,Extremely true,2,12,45,45,45
+57,Q2.13,Are you confident that individual changes you make can have an impact on climate change?,1,,Not at all confident,2,13,45,45,45
+58,Q2.13,Are you confident that individual changes you make can have an impact on climate change?,2,,Slightly confident,2,13,54,54,54
+59,Q2.13,Are you confident that individual changes you make can have an impact on climate change?,3,,Moderately confident,2,13,64,64,64
+60,Q2.13,Are you confident that individual changes you make can have an impact on climate change?,4,,Quite confident,2,13,46,46,46
+61,Q2.13,Are you confident that individual changes you make can have an impact on climate change?,5,,Extremely true,2,13,27,27,27
+62,Q3.2,How willing are you to switch from a single use instrument (such as a port) to a reusable instrument?,1,,Not at all willing,3,2,2,2,2
+63,Q3.2,How willing are you to switch from a single use instrument (such as a port) to a reusable instrument?,2,,Slightly willing,3,2,11,11,11
+64,Q3.2,How willing are you to switch from a single use instrument (such as a port) to a reusable instrument?,3,,Moderately willing,3,2,39,39,39
+65,Q3.2,How willing are you to switch from a single use instrument (such as a port) to a reusable instrument?,4,,Quite willing,3,2,67,67,67
+66,Q3.2,How willing are you to switch from a single use instrument (such as a port) to a reusable instrument?,5,,Extremely willing,3,2,79,79,79
+67,Q3.2,How willing are you to switch from a single use instrument (such as a port) to a reusable instrument?,7,,I am already doing this,3,2,38,38,38
+68,Q3.3,How willing are you to switch from a brand new (OEM) instrument (such as a Ligasure) to a reprocessed instrument?,1,,Not at all willing,3,3,6,6,6
+69,Q3.3,How willing are you to switch from a brand new (OEM) instrument (such as a Ligasure) to a reprocessed instrument?,2,,Slightly willing,3,3,15,15,15
+70,Q3.3,How willing are you to switch from a brand new (OEM) instrument (such as a Ligasure) to a reprocessed instrument?,3,,Moderately willing,3,3,38,38,38
+71,Q3.3,How willing are you to switch from a brand new (OEM) instrument (such as a Ligasure) to a reprocessed instrument?,4,,Quite willing,3,3,62,62,62
+72,Q3.3,How willing are you to switch from a brand new (OEM) instrument (such as a Ligasure) to a reprocessed instrument?,5,,Extremely willing,3,3,87,87,87
+73,Q3.3,How willing are you to switch from a brand new (OEM) instrument (such as a Ligasure) to a reprocessed instrument?,7,,I am already doing this,3,3,28,28,28
+74,Q3.4,How willing are you to switch from a single use surgical gown to a reusable cloth surgical gown?,1,,Not at all willing,3,4,20,20,20
+75,Q3.4,How willing are you to switch from a single use surgical gown to a reusable cloth surgical gown?,2,,Slightly willing,3,4,17,17,17
+76,Q3.4,How willing are you to switch from a single use surgical gown to a reusable cloth surgical gown?,3,,Moderately willing,3,4,31,31,31
+77,Q3.4,How willing are you to switch from a single use surgical gown to a reusable cloth surgical gown?,4,,Quite willing,3,4,47,47,47
+78,Q3.4,How willing are you to switch from a single use surgical gown to a reusable cloth surgical gown?,5,,Extremely willing,3,4,111,111,111
+79,Q3.4,How willing are you to switch from a single use surgical gown to a reusable cloth surgical gown?,7,,I am already doing this,3,4,10,10,10
+80,Q3.5,How willing are you to switch from a single use surgical towels to a reusable surgical towels?,1,,Not at all willing,3,5,8,8,8
+81,Q3.5,How willing are you to switch from a single use surgical towels to a reusable surgical towels?,2,,Slightly willing,3,5,11,11,11
+82,Q3.5,How willing are you to switch from a single use surgical towels to a reusable surgical towels?,3,,Moderately willing,3,5,24,24,24
+83,Q3.5,How willing are you to switch from a single use surgical towels to a reusable surgical towels?,4,,Quite willing,3,5,49,49,49
+84,Q3.5,How willing are you to switch from a single use surgical towels to a reusable surgical towels?,5,,Extremely willing,3,5,121,121,121
+85,Q3.5,How willing are you to switch from a single use surgical towels to a reusable surgical towels?,7,,I am already doing this,3,5,23,23,23
+86,Q3.6,How willing are you to reduce items on preference cards following periodic preference card review?,1,,Not at all willing,3,6,3,3,3
+87,Q3.6,How willing are you to reduce items on preference cards following periodic preference card review?,2,,Slightly willing,3,6,2,2,2
+88,Q3.6,How willing are you to reduce items on preference cards following periodic preference card review?,3,,Moderately willing,3,6,15,15,15
+89,Q3.6,How willing are you to reduce items on preference cards following periodic preference card review?,4,,Quite willing,3,6,54,54,54
+90,Q3.6,How willing are you to reduce items on preference cards following periodic preference card review?,5,,Extremely willing,3,6,125,125,125
+91,Q3.6,How willing are you to reduce items on preference cards following periodic preference card review?,7,,I am already doing this,3,6,37,37,37
+92,Q3.7,How willing are you to reduce items on preference cards based on colleagues usage patterns?,1,,Not at all willing,3,7,14,14,14
+93,Q3.7,How willing are you to reduce items on preference cards based on colleagues usage patterns?,2,,Slightly willing,3,7,22,22,22
+94,Q3.7,How willing are you to reduce items on preference cards based on colleagues usage patterns?,3,,Moderately willing,3,7,49,49,49
+95,Q3.7,How willing are you to reduce items on preference cards based on colleagues usage patterns?,4,,Quite willing,3,7,60,60,60
+96,Q3.7,How willing are you to reduce items on preference cards based on colleagues usage patterns?,5,,Extremely willing,3,7,68,68,68
+97,Q3.7,How willing are you to reduce items on preference cards based on colleagues usage patterns?,7,,I am already doing this,3,7,23,23,23
+98,Q3.8,How willing are you to participate in a program where the cost and carbon footprint for each surgeon performing a particular operation is displayed?,1,,Not at all willing,3,8,14,14,14
+99,Q3.8,How willing are you to participate in a program where the cost and carbon footprint for each surgeon performing a particular operation is displayed?,2,,Slightly willing,3,8,21,21,21
+100,Q3.8,How willing are you to participate in a program where the cost and carbon footprint for each surgeon performing a particular operation is displayed?,3,,Moderately willing,3,8,30,30,30
+101,Q3.8,How willing are you to participate in a program where the cost and carbon footprint for each surgeon performing a particular operation is displayed?,4,,Quite willing,3,8,54,54,54
+102,Q3.8,How willing are you to participate in a program where the cost and carbon footprint for each surgeon performing a particular operation is displayed?,5,,Extremely willing,3,8,108,108,108
+103,Q3.8,How willing are you to participate in a program where the cost and carbon footprint for each surgeon performing a particular operation is displayed?,7,,I am already doing this,3,8,9,9,9
+104,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,1,,Not at all willing,3,9,23,23,23
+105,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,2,,Slightly willing,3,9,16,16,16
+106,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,3,,Moderately willing,3,9,27,27,27
+107,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,4,,Quite willing,3,9,28,28,28
+108,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,5,,Extremely willing,3,9,36,36,36
+109,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,7,,I am already doing this,3,9,100,100,100
+110,Q3.9,How willing are you transition completely from water-based to alcohol-based scrub?,8,,I am unable to do this,3,9,6,6,6
+111,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,1,,Not at all willing,3,10,2,2,2
+112,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,2,,Slightly willing,3,10,11,11,11
+113,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,3,,Moderately willing,3,10,15,15,15
+114,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,4,,Quite willing,3,10,28,28,28
+115,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,5,,Extremely willing,3,10,60,60,60
+116,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,7,,I am already doing this,3,10,118,118,118
+117,Q3.10,How willing are you to reduce the default length of stay for elective patients who are recovering appropriately?,8,,I am unable to do this,3,10,2,2,2
+118,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,1,,Not at all willing,3,11,19,19,19
+119,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,2,,Slightly willing,3,11,23,23,23
+120,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,3,,Moderately willing,3,11,33,33,33
+121,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,4,,Quite willing,3,11,35,35,35
+122,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,5,,Extremely willing,3,11,52,52,52
+123,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,7,,I am already doing this,3,11,72,72,72
+124,Q3.11,How willing are you to see the majority of routine post-operative patients via telemedicine?,8,,I am unable to do this,3,11,2,2,2
+125,Q4.2,How motivated would you be in improving the sustainability of your practice if you personally received a cash incentive?,1,,Not at all motivated,4,2,20,20,20
+126,Q4.2,How motivated would you be in improving the sustainability of your practice if you personally received a cash incentive?,2,,Slightly motivated,4,2,32,32,32
+127,Q4.2,How motivated would you be in improving the sustainability of your practice if you personally received a cash incentive?,3,,Moderately motivated,4,2,38,38,38
+128,Q4.2,How motivated would you be in improving the sustainability of your practice if you personally received a cash incentive?,4,,Quite motivated,4,2,53,53,53
+129,Q4.2,How motivated would you be in improving the sustainability of your practice if you personally received a cash incentive?,5,,Extremely motivated,4,2,93,93,93
+130,Q4.3,How motivated would you be in improving the sustainability of your practice if your division received a cash incentive?,1,,Not at all motivated,4,3,18,18,18
+131,Q4.3,How motivated would you be in improving the sustainability of your practice if your division received a cash incentive?,2,,Slightly motivated,4,3,37,37,37
+132,Q4.3,How motivated would you be in improving the sustainability of your practice if your division received a cash incentive?,3,,Moderately motivated,4,3,61,61,61
+133,Q4.3,How motivated would you be in improving the sustainability of your practice if your division received a cash incentive?,4,,Quite motivated,4,3,53,53,53
+134,Q4.3,How motivated would you be in improving the sustainability of your practice if your division received a cash incentive?,5,,Extremely motivated,4,3,67,67,67
+135,Q4.4,How motivated would you be in improving the sustainability of your practice if you receive a percentage of the cost savings?,1,,Not at all motivated,4,4,13,13,13
+136,Q4.4,How motivated would you be in improving the sustainability of your practice if you receive a percentage of the cost savings?,2,,Slightly motivated,4,4,20,20,20
+137,Q4.4,How motivated would you be in improving the sustainability of your practice if you receive a percentage of the cost savings?,3,,Moderately motivated,4,4,42,42,42
+138,Q4.4,How motivated would you be in improving the sustainability of your practice if you receive a percentage of the cost savings?,4,,Quite motivated,4,4,62,62,62
+139,Q4.4,How motivated would you be in improving the sustainability of your practice if you receive a percentage of the cost savings?,5,,Extremely motivated,4,4,99,99,99
+140,Q4.5,How motivated would you be in improving the sustainability of your practice if your division receives additional research funding?,1,,Not at all motivated,4,5,28,28,28
+141,Q4.5,How motivated would you be in improving the sustainability of your practice if your division receives additional research funding?,2,,Slightly motivated,4,5,28,28,28
+142,Q4.5,How motivated would you be in improving the sustainability of your practice if your division receives additional research funding?,3,,Moderately motivated,4,5,60,60,60
+143,Q4.5,How motivated would you be in improving the sustainability of your practice if your division receives additional research funding?,4,,Quite motivated,4,5,58,58,58
+144,Q4.5,How motivated would you be in improving the sustainability of your practice if your division receives additional research funding?,5,,Extremely motivated,4,5,61,61,61
+145,Q4.5,How motivated would you be in improving the sustainability of your practice if your division receives additional research funding?,,,,4,5,,,
+146,Q4.6,How motivated would you be in improving the sustainability of your practice if you receive a perk (such as free professional membership)?,1,,Not at all motivated,4,6,39,39,39
+147,Q4.6,How motivated would you be in improving the sustainability of your practice if you receive a perk (such as free professional membership)?,2,,Slightly motivated,4,6,40,40,40
+148,Q4.6,How motivated would you be in improving the sustainability of your practice if you receive a perk (such as free professional membership)?,3,,Moderately motivated,4,6,53,53,53
+149,Q4.6,How motivated would you be in improving the sustainability of your practice if you receive a perk (such as free professional membership)?,4,,Quite motivated,4,6,49,49,49
+150,Q4.6,How motivated would you be in improving the sustainability of your practice if you receive a perk (such as free professional membership)?,5,,Extremely motivated,4,6,55,55,55
+151,Q4.7,How motivated would you be in improving the sustainability of your practice if your division receives a perk (such as a pizza party)?,1,,Not at all motivated,4,7,94,94,94
+152,Q4.7,How motivated would you be in improving the sustainability of your practice if your division receives a perk (such as a pizza party)?,2,,Slightly motivated,4,7,66,66,66
+153,Q4.7,How motivated would you be in improving the sustainability of your practice if your division receives a perk (such as a pizza party)?,3,,Moderately motivated,4,7,37,37,37
+154,Q4.7,How motivated would you be in improving the sustainability of your practice if your division receives a perk (such as a pizza party)?,4,,Quite motivated,4,7,17,17,17
+155,Q4.7,How motivated would you be in improving the sustainability of your practice if your division receives a perk (such as a pizza party)?,5,,Extremely motivated,4,7,22,22,22
+156,Q4.8,How motivated would you be in improving the sustainability of your practice if you receive personal recognition from your department?,1,,Not at all motivated,4,8,74,74,74
+157,Q4.8,How motivated would you be in improving the sustainability of your practice if you receive personal recognition from your department?,2,,Slightly motivated,4,8,53,53,53
+158,Q4.8,How motivated would you be in improving the sustainability of your practice if you receive personal recognition from your department?,3,,Moderately motivated,4,8,55,55,55
+159,Q4.8,How motivated would you be in improving the sustainability of your practice if you receive personal recognition from your department?,4,,Quite motivated,4,8,33,33,33
+160,Q4.8,How motivated would you be in improving the sustainability of your practice if you receive personal recognition from your department?,5,,Extremely motivated,4,8,21,21,21
+161,Q4.9,How motivated would you be in improving the sustainability of your practice if your division/group receives recognition from your department?,1,,Not at all motivated,4,9,55,55,55
+162,Q4.9,How motivated would you be in improving the sustainability of your practice if your division/group receives recognition from your department?,2,,Slightly motivated,4,9,59,59,59
+163,Q4.9,How motivated would you be in improving the sustainability of your practice if your division/group receives recognition from your department?,3,,Moderately motivated,4,9,54,54,54
+164,Q4.9,How motivated would you be in improving the sustainability of your practice if your division/group receives recognition from your department?,4,,Quite motivated,4,9,37,37,37
+165,Q4.9,How motivated would you be in improving the sustainability of your practice if your division/group receives recognition from your department?,5,,Extremely motivated,4,9,31,31,31
+166,Q4.10,How motivated would you be in improving the sustainability of your practice if you receive national recognition?,1,,Not at all motivated,4,10,57,57,57
+167,Q4.10,How motivated would you be in improving the sustainability of your practice if you receive national recognition?,2,,Slightly motivated,4,10,45,45,45
+168,Q4.10,How motivated would you be in improving the sustainability of your practice if you receive national recognition?,3,,Moderately motivated,4,10,57,57,57
+169,Q4.10,How motivated would you be in improving the sustainability of your practice if you receive national recognition?,4,,Quite motivated,4,10,40,40,40
+170,Q4.10,How motivated would you be in improving the sustainability of your practice if you receive national recognition?,5,,Extremely motivated,4,10,37,37,37

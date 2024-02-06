@@ -1,0 +1,234 @@
+,ResponseId,Factor 1,Factor 2,Factor 3,Factor 4,Factor 5,Specialty,Role,Years in Practice,distribution,us_region,acs_trauma_region,sample_size
+0,R_0NBvYPFGDwGKwcF,1.8333333333333333,4.333333333333333,3.75,3.3333333333333335,1.6666666666666667,Bariatric/Minimally Invasive Surgery,,4.0,washu,Midwest,7,99
+1,R_0kCFGtdXA2I7U7D,1.1666666666666667,3.3333333333333335,3.5,2.0,1.0,Hepatopancreaticobiliary Surgery,,20.0,washu,Midwest,7,99
+2,R_10Ss4g1gSfQXL6w,4.333333333333333,4.833333333333333,4.75,5.0,1.0,"Hepatopancreaticobiliary Surgery,Surgical Oncology",,10.0,vanderbilt,Southeast,4,88
+3,R_10UaOW7xBXiXL5G,1.5,3.6666666666666665,1.75,1.6666666666666667,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),15.0,und,Midwest,8,11
+4,R_11Z3AaEw8hTtY10,2.0,4.666666666666667,2.75,5.0,1.0,Trauma Surgery/Critical Care,,8.0,ucsf,West,9,123
+5,R_12EBfLJeD9sfTrj,5.0,4.666666666666667,4.25,5.0,1.0,Colon and Rectal Surgery,,2.0,vanderbilt,Southeast,4,88
+6,R_12a6fhI3OGX81SR,3.6666666666666665,3.5,3.75,4.0,1.3333333333333333,Vascular Surgery,,30.0,lahey,Northeast,1,38
+7,R_12rwYCPM55WQVJA,2.3333333333333335,5.0,4.0,5.0,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",Program Director (or Assistant Program Director),2.0,virginiamason,West,10,24
+8,R_1CBeSVh0Pbdmyxo,1.5,4.5,3.0,3.0,2.3333333333333335,Abdominal Wall/Hernia Surgery,,30.0,vanderbilt,Southeast,4,88
+9,R_1Cf0dOpW1htTdBY,2.8333333333333335,3.6666666666666665,2.5,1.6666666666666667,2.0,Trauma Surgery/Critical Care,,20.0,ucsf,West,9,123
+10,R_1Cm9yIGMYwVkuSe,2.1666666666666665,4.166666666666667,5.0,5.0,2.0,"Abdominal Wall/Hernia Surgery,Endocrine Surgery,Hepatopancreaticobiliary Surgery,Surgical Oncology,Transplant Surgery",Program Director (or Assistant Program Director),11.0,lehigh,Northeast,3,55
+11,R_1CvU9wHF99YUsEB,2.0,3.3333333333333335,3.75,2.6666666666666665,1.0,Hepatopancreaticobiliary Surgery,Department Chair,25.0,lahey,Northeast,1,38
+12,R_1DIuaHXKz9twXg8,2.0,4.666666666666667,3.25,1.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery",,28.0,washu,Midwest,7,99
+13,R_1DZJ8RKyRh2ysE0,2.1666666666666665,4.166666666666667,3.25,3.3333333333333335,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,30.0,und,Midwest,8,11
+14,R_1EWpWWDYsCmwx8v,1.8333333333333333,4.333333333333333,3.25,2.6666666666666665,1.6666666666666667,Colon and Rectal Surgery,,31.0,northwestern,Midwest,5,58
+15,R_1F54SHaVc5tjwxl,2.5,3.3333333333333335,3.75,4.0,2.6666666666666665,Other,Department Chair,39.0,cornell,Northeast,2,49
+16,R_1Fetqvf0h3BMHy6,3.8333333333333335,3.3333333333333335,4.0,4.0,4.0,Vascular Surgery,,12.0,lahey,Northeast,1,38
+17,R_1FhTcL6L17bVAzH,4.333333333333333,5.333333333333333,4.0,5.0,2.6666666666666665,Acute Care Surgery/Emergency General Surgery,,20.0,cornell,Northeast,2,49
+18,R_1GTdv6npombGjSm,3.5,4.0,3.75,5.0,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),8.0,northwestern,Midwest,5,58
+19,R_1H8k9rFMhAow3Wx,4.333333333333333,5.0,4.25,3.6666666666666665,1.6666666666666667,Acute Care Surgery/Emergency General Surgery,,15.0,vanderbilt,Southeast,4,88
+20,R_1IF3PLpW5nl93hx,1.3333333333333333,3.5,2.75,2.0,1.3333333333333333,Colon and Rectal Surgery,,,washu,Midwest,7,99
+21,R_1IMH4WuD0Xjmq12,1.8333333333333333,3.3333333333333335,2.5,2.0,1.6666666666666667,Breast Surgery,,9.0,lahey,Northeast,1,38
+22,R_1ITrvE9yk66ybGy,1.0,3.3333333333333335,1.75,2.6666666666666665,1.0,Vascular Surgery,,8.0,washu,Midwest,7,99
+23,R_1IyO5XPbBJFqiDC,1.0,1.6666666666666667,3.25,4.0,2.6666666666666665,Surgical Oncology,,,ucsf,West,9,123
+24,R_1LIIasb1kfIw4qo,3.6666666666666665,4.166666666666667,4.25,5.0,1.0,"Abdominal Wall/Hernia Surgery,Bariatric/Minimally Invasive Surgery,Endocrine Surgery,Surgical Oncology",,1.0,texastech,Southwest,6,27
+25,R_1LS8kD0CLZ0kDm1,4.0,4.666666666666667,4.25,2.6666666666666665,1.6666666666666667,"Acute Care Surgery/Emergency General Surgery,Pediatric Surgery,Trauma Surgery/Critical Care",,18.0,vanderbilt,Southeast,4,88
+26,R_1LbrMOgzVa7SbzM,2.6666666666666665,5.0,3.5,4.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Endocrine Surgery",Program Director (or Assistant Program Director),30.0,cornell,Northeast,2,49
+27,R_1NzuIhUY1MaqFFl,2.5,5.0,3.5,2.0,1.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),32.0,northwestern,Midwest,5,58
+28,R_1PTYJE13HVRVO61,1.8333333333333333,4.5,2.0,4.0,1.6666666666666667,Pediatric Surgery,,4.0,vanderbilt,Southeast,4,88
+29,R_1dF7UgUeUGWovLZ,1.5,5.333333333333333,3.25,3.0,2.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery",Program Director (or Assistant Program Director),,lehigh,Northeast,3,55
+30,R_1dMlSI0KXyxsTZn,2.6666666666666665,5.166666666666667,4.0,5.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",,16.0,ucsf,West,9,123
+31,R_1eElmoy8b911U0m,4.333333333333333,5.0,4.5,5.0,2.6666666666666665,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Hepatopancreaticobiliary Surgery",,25.0,ucsf,West,9,123
+32,R_1eOCl7AeWLd41Yt,2.1666666666666665,2.5,3.0,4.666666666666667,1.6666666666666667,Trauma Surgery/Critical Care,,13.0,northwestern,Midwest,5,58
+33,R_1eWrKoksiLibRej,2.3333333333333335,4.0,3.0,2.3333333333333335,3.0,Vascular Surgery,Program Director (or Assistant Program Director),15.0,lehigh,Northeast,3,55
+34,R_1gRvKfCTUXixOEb,2.1666666666666665,4.333333333333333,2.5,4.333333333333333,1.6666666666666667,Vascular Surgery,,25.0,lehigh,Northeast,3,55
+35,R_1gjsUSHUuN0k5f3,2.1666666666666665,5.0,4.5,2.6666666666666665,1.0,Vascular Surgery,,17.0,ucsf,West,9,123
+36,R_1imx1MSykMkrOom,2.0,4.166666666666667,4.5,3.6666666666666665,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Endocrine Surgery",,11.0,lehigh,Northeast,3,55
+37,R_1jHt76D3uTbxJgG,1.6666666666666667,4.666666666666667,5.0,3.0,1.6666666666666667,Pediatric Surgery,Program Director (or Assistant Program Director),11.0,ucsf,West,9,123
+38,R_1jJNfmdjKEg0FRF,4.0,5.0,3.5,5.0,1.6666666666666667,Colon and Rectal Surgery,,19.0,cornell,Northeast,2,49
+39,R_1jJkcoKRUwvFUst,1.1666666666666667,2.8333333333333335,1.5,2.0,1.0,Colon and Rectal Surgery,,3.0,texastech,Southwest,6,27
+40,R_1kZCeMij5mbGp10,3.6666666666666665,4.333333333333333,3.0,3.3333333333333335,2.6666666666666665,"Hepatopancreaticobiliary Surgery,Transplant Surgery",Program Director (or Assistant Program Director),28.0,ucsf,West,9,123
+41,R_1l0KxgxjDGcq2Rv,2.8333333333333335,5.0,4.5,2.6666666666666665,2.3333333333333335,Acute Care Surgery/Emergency General Surgery,Department Chair,,texastech,Southwest,6,27
+42,R_1l9JWGNAOhwXL8A,2.5,3.6666666666666665,4.25,5.0,1.0,Pediatric Surgery,,14.0,lehigh,Northeast,3,55
+43,R_1n7qfYsJ2A127iX,1.3333333333333333,3.3333333333333335,3.25,2.0,2.3333333333333335,Colon and Rectal Surgery,,30.0,cornell,Northeast,2,49
+44,R_1od3OOTbbIE08m3,1.3333333333333333,4.0,4.0,4.666666666666667,1.6666666666666667,Vascular Surgery,,3.0,lahey,Northeast,1,38
+45,R_1ouJGe4CiooCMEZ,1.0,2.5,2.5,2.0,1.3333333333333333,"Abdominal Wall/Hernia Surgery,Bariatric/Minimally Invasive Surgery",Program Director (or Assistant Program Director),15.0,ucsf,West,9,123
+46,R_1pRNL8T5PVyxJpN,5.0,3.1666666666666665,4.0,5.0,2.6666666666666665,Colon and Rectal Surgery,,21.0,washu,Midwest,7,99
+47,R_1q7CnJFPUYNvfQy,4.5,3.8333333333333335,4.25,5.0,2.6666666666666665,Vascular Surgery,,18.0,cornell,Northeast,2,49
+48,R_1rxAih9TOpteG5G,3.0,2.8333333333333335,3.25,3.0,2.3333333333333335,Acute Care Surgery/Emergency General Surgery,,1.0,lehigh,Northeast,3,55
+49,R_21aCwJ1qjBp6tRL,2.1666666666666665,4.0,4.25,4.0,1.6666666666666667,Pediatric Surgery,,15.0,cornell,Northeast,2,49
+50,R_22P4uoBqFw6AaB9,1.0,4.5,3.25,1.0,2.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,15.0,lahey,Northeast,1,38
+51,R_22VvC1r84TcPmqq,5.0,3.1666666666666665,4.75,5.0,2.3333333333333335,Hepatopancreaticobiliary Surgery,,1.0,washu,Midwest,7,99
+52,R_22qNtCIlTv6yOWH,3.3333333333333335,4.666666666666667,3.75,4.333333333333333,2.0,Vascular Surgery,,1.0,ucsf,West,9,123
+53,R_239W2TdvkmwwlO3,2.3333333333333335,4.333333333333333,2.75,3.3333333333333335,1.6666666666666667,Abdominal Wall/Hernia Surgery,Program Director (or Assistant Program Director),8.0,washu,Midwest,7,99
+54,R_23X2YZ01lZSOLvT,2.0,3.5,2.5,3.6666666666666665,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),5.0,washu,Midwest,7,99
+55,R_24AfEtMwZ73MYRj,4.5,5.166666666666667,5.0,4.666666666666667,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,10.0,lahey,Northeast,1,38
+56,R_24dP0BeJ7pCo9L2,2.8333333333333335,4.5,1.5,3.6666666666666665,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),11.0,vanderbilt,Southeast,4,88
+57,R_24pisG2hsqMH7ZY,2.0,4.5,4.0,2.6666666666666665,3.0,Other,,40.0,vanderbilt,Southeast,4,88
+58,R_25RsYOfgaO79uts,1.6666666666666667,4.833333333333333,3.5,3.6666666666666665,1.0,Breast Surgery,,15.0,ucsf,West,9,123
+59,R_25uoAdxWGbbGHRo,1.1666666666666667,5.166666666666667,5.0,2.3333333333333335,1.0,Vascular Surgery,,17.0,ucsf,West,9,123
+60,R_25yfqWHHDPT4CVl,2.6666666666666665,4.833333333333333,4.75,5.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Bariatric/Minimally Invasive Surgery",,40.0,lahey,Northeast,1,38
+61,R_262oJgtZVMLIpez,1.6666666666666667,4.666666666666667,5.0,4.333333333333333,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Breast Surgery,Other",Program Director (or Assistant Program Director),10.0,ucsf,West,9,123
+62,R_27KHJQggTLrIzVp,2.5,3.1666666666666665,3.5,3.6666666666666665,2.3333333333333335,Pediatric Surgery,,44.0,ucsf,West,9,123
+63,R_27g94Yk2FuhSI2v,5.0,4.833333333333333,5.0,5.0,4.666666666666667,Acute Care Surgery/Emergency General Surgery,,18.0,washu,Midwest,7,99
+64,R_29gNMwwmgJRX8z7,4.166666666666667,4.666666666666667,4.0,5.0,1.0,Vascular Surgery,,25.0,vanderbilt,Southeast,4,88
+65,R_2AHyf48UYcC1vyU,1.3333333333333333,1.8333333333333333,2.25,4.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",,11.0,ucsf,West,9,123
+66,R_2B40qDlGEaL8XCU,2.1666666666666665,4.5,3.25,3.6666666666666665,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Hepatopancreaticobiliary Surgery",,28.0,ucsf,West,9,123
+67,R_2BbUGsnbQxYXxvr,2.3333333333333335,3.5,3.75,1.6666666666666667,1.3333333333333333,Transplant Surgery,,3.0,lahey,Northeast,1,38
+68,R_2BfXzIypRtLQHZb,2.0,2.6666666666666665,2.5,3.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery",,12.0,und,Midwest,8,11
+69,R_2BqHlt22LZTvwgH,2.8333333333333335,4.166666666666667,3.75,5.0,2.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",,5.0,virginiamason,West,10,24
+70,R_2CE2cX0g5eeVA13,2.1666666666666665,3.3333333333333335,2.25,2.6666666666666665,2.0,Pediatric Surgery,Program Director (or Assistant Program Director),26.0,washu,Midwest,7,99
+71,R_2Cy4ScFJIPWiAT4,4.166666666666667,4.5,3.5,5.0,1.0,Colon and Rectal Surgery,,3.0,lahey,Northeast,1,38
+72,R_2DMIj31kHmMcbY8,3.8333333333333335,5.166666666666667,3.0,3.6666666666666665,2.6666666666666665,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,23.0,washu,Midwest,7,99
+73,R_2EF4VCSzAejGddJ,2.6666666666666665,3.8333333333333335,4.0,3.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),21.0,lehigh,Northeast,3,55
+74,R_2EgCuYyTqjW8vx8,2.5,3.0,2.5,3.0,1.0,Colon and Rectal Surgery,Program Director (or Assistant Program Director),10.0,washu,Midwest,7,99
+75,R_2OGzV95EloMXu6K,2.8333333333333335,4.333333333333333,3.5,5.0,1.3333333333333333,Vascular Surgery,Program Director (or Assistant Program Director),17.0,vanderbilt,Southeast,4,88
+76,R_2OQ5s6sOHgYS7E2,2.3333333333333335,4.333333333333333,3.0,3.3333333333333335,2.0,Colon and Rectal Surgery,,1.0,washu,Midwest,7,99
+77,R_2P1D7JgWN7XRNKt,2.1666666666666665,2.8333333333333335,3.25,5.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery",Program Director (or Assistant Program Director),35.0,texastech,Southwest,6,27
+78,R_2P29uuCaobEYRUw,2.0,3.0,2.75,2.0,3.0,Other,,,washu,Midwest,7,99
+79,R_2P8dQyyYMKqijQE,1.3333333333333333,4.0,3.25,3.3333333333333335,1.3333333333333333,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Hepatopancreaticobiliary Surgery,Surgical Oncology",,2.0,ucsf,West,9,123
+80,R_2PC2kfsNSpHfqT6,2.8333333333333335,4.666666666666667,2.75,2.6666666666666665,1.0,Cardiac Surgery,,1.0,washu,Midwest,7,99
+81,R_2QRkpAOSaCPPpLW,4.666666666666667,5.0,4.25,4.666666666666667,2.0,"Abdominal Wall/Hernia Surgery,Hepatopancreaticobiliary Surgery,Surgical Oncology",,7.0,texastech,Southwest,6,27
+82,R_2SBo2pr43xXI7gm,1.3333333333333333,3.6666666666666665,2.5,1.6666666666666667,2.0,Cardiac Surgery,,11.0,washu,Midwest,7,99
+83,R_2U478FaHpQOHa2o,1.8333333333333333,4.666666666666667,2.25,3.0,1.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,,washu,Midwest,7,99
+84,R_2UWpCS5RBPaA3Iv,3.6666666666666665,4.833333333333333,3.0,2.6666666666666665,3.0,"Acute Care Surgery/Emergency General Surgery,Pediatric Surgery,Plastics Surgery",,22.0,lehigh,Northeast,3,55
+85,R_2Vlj7rUE9JqtOd2,1.0,5.666666666666667,5.0,5.0,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,16.0,lehigh,Northeast,3,55
+86,R_2VsFaAFVnUfN9Fy,4.0,4.5,3.5,4.0,2.3333333333333335,Endocrine Surgery,,24.0,ucsf,West,9,123
+87,R_2X0aiqb8m6fm8da,1.1666666666666667,5.0,2.5,2.3333333333333335,2.0,Trauma Surgery/Critical Care,,3.0,texastech,Southwest,6,27
+88,R_2X6FUofPy7MDhUg,2.8333333333333335,4.666666666666667,5.0,4.333333333333333,1.3333333333333333,Colon and Rectal Surgery,Program Director (or Assistant Program Director),14.0,vanderbilt,Southeast,4,88
+89,R_2YJ0UWuTolREwAb,5.0,4.833333333333333,3.25,5.0,1.0,Transplant Surgery,"Department Chair,Program Director (or Assistant Program Director)",12.0,northwestern,Midwest,5,58
+90,R_2YtxNvN5s0w2l7N,2.1666666666666665,4.5,3.0,3.0,2.3333333333333335,Vascular Surgery,Department Chair,35.0,lahey,Northeast,1,38
+91,R_2ZK4wuIarxnJyB9,2.6666666666666665,2.3333333333333335,4.25,3.3333333333333335,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Trauma Surgery/Critical Care",,12.0,lehigh,Northeast,3,55
+92,R_2aOxGecyTWdWk4p,1.3333333333333333,3.6666666666666665,3.75,3.0,3.3333333333333335,Pediatric Surgery,,16.0,ucsf,West,9,123
+93,R_2abh38siOVu9F56,3.0,3.0,2.5,5.0,3.0,Vascular Surgery,,,cornell,Northeast,2,49
+94,R_2anudYeXDJQ6Zsu,3.0,4.5,2.75,4.0,1.0,Pediatric Surgery,,6.0,washu,Midwest,7,99
+95,R_2atzrwARXYyEBaw,1.8333333333333333,3.8333333333333335,3.0,1.0,2.0,Thoracic Surgery,,,washu,Midwest,7,99
+96,R_2bN7d7LxvDyCBTH,1.8333333333333333,4.666666666666667,2.5,2.0,2.6666666666666665,Other,Program Director (or Assistant Program Director),21.0,cornell,Northeast,2,49
+97,R_2bZBslerj3DMla2,1.8333333333333333,4.666666666666667,4.75,2.0,1.0,Cardiac Surgery,,6.0,washu,Midwest,7,99
+98,R_2cB1TcCWdgs0y6L,4.666666666666667,4.166666666666667,3.0,5.0,2.0,Other,,35.0,texastech,Southwest,6,27
+99,R_2cBeUOwXB5b4FmA,2.0,5.333333333333333,4.25,5.0,1.6666666666666667,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),5.0,texastech,Southwest,6,27
+100,R_2cdSJKOOxBslwUk,2.0,4.833333333333333,2.5,3.0,2.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,2.0,lehigh,Northeast,3,55
+101,R_2cthvSPZIZMn7y6,2.8333333333333335,4.0,3.25,4.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Colon and Rectal Surgery",,6.0,lahey,Northeast,1,38
+102,R_2dEYSAy8XxvLP15,2.1666666666666665,4.666666666666667,2.5,1.6666666666666667,2.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,2.0,vanderbilt,Southeast,4,88
+103,R_2dF0hbaD1IswgJq,3.6666666666666665,3.6666666666666665,4.0,4.0,1.6666666666666667,Plastics Surgery,,1.0,texastech,Southwest,6,27
+104,R_2dvbzONLMKjJHgn,3.1666666666666665,4.166666666666667,3.5,4.333333333333333,1.0,Transplant Surgery,,1.0,washu,Midwest,7,99
+105,R_2dviQmjAazqFaQo,3.0,4.833333333333333,2.0,4.0,1.0,Pediatric Surgery,,18.0,lehigh,Northeast,3,55
+106,R_2f99mkgC2P2rK8j,3.0,4.166666666666667,3.25,4.0,1.0,"Abdominal Wall/Hernia Surgery,Other",,5.0,ucsf,West,9,123
+107,R_2fByou8nvRRsOrv,1.8333333333333333,4.666666666666667,4.0,4.0,1.3333333333333333,"Hepatopancreaticobiliary Surgery,Transplant Surgery",,6.0,washu,Midwest,7,99
+108,R_2fvRJknFO6JgrEs,3.6666666666666665,4.666666666666667,2.75,5.0,2.0,Trauma Surgery/Critical Care,,10.0,washu,Midwest,7,99
+109,R_2pLzzV1ZoRrDqEu,2.8333333333333335,4.5,4.0,3.3333333333333335,1.0,Trauma Surgery/Critical Care,,2.0,washu,Midwest,7,99
+110,R_2rCkgOkh9r4mZTu,3.0,3.0,3.0,3.0,3.0,Hepatopancreaticobiliary Surgery,,5.0,washu,Midwest,7,99
+111,R_2ro1PARHbeh2GrX,4.0,3.5,3.5,3.6666666666666665,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Breast Surgery,Colon and Rectal Surgery,Endocrine Surgery,Hepatopancreaticobiliary Surgery,Pediatric Surgery",,32.0,washu,Midwest,7,99
+112,R_2rpiMiAlsPTav2k,2.1666666666666665,3.6666666666666665,2.0,3.0,1.0,Bariatric/Minimally Invasive Surgery,Program Director (or Assistant Program Director),14.0,washu,Midwest,7,99
+113,R_2s6ZUTp6GIuGVOj,2.6666666666666665,5.666666666666667,4.25,2.6666666666666665,1.0,Thoracic Surgery,Program Director (or Assistant Program Director),5.0,ucsf,West,9,123
+114,R_2txR0mP9V8dA351,2.6666666666666665,3.8333333333333335,4.5,3.0,2.0,Transplant Surgery,Program Director (or Assistant Program Director),1.0,washu,Midwest,7,99
+115,R_2uzvZEJHAEqAKbv,4.166666666666667,4.333333333333333,4.0,5.0,1.0,Colon and Rectal Surgery,Program Director (or Assistant Program Director),10.0,vanderbilt,Southeast,4,88
+116,R_2w66EVkTBem7xud,1.8333333333333333,4.666666666666667,2.0,2.3333333333333335,1.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,15.0,ucsf,West,9,123
+117,R_2wssCIKRbWQ9ViV,3.6666666666666665,5.333333333333333,5.0,4.333333333333333,3.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,10.0,texastech,Southwest,6,27
+118,R_2xFw2cSsA2sLfdj,3.1666666666666665,4.0,4.25,4.0,2.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",Program Director (or Assistant Program Director),22.0,virginiamason,West,10,24
+119,R_2xLXZMsqc3X0hfL,2.0,4.666666666666667,4.5,4.0,2.3333333333333335,Pediatric Surgery,,5.0,washu,Midwest,7,99
+120,R_2xXW2g61RdKJFzu,4.0,5.333333333333333,4.25,4.0,1.0,Vascular Surgery,Department Chair,30.0,vanderbilt,Southeast,4,88
+121,R_30eodJes6HCqG3p,2.0,3.5,3.75,2.6666666666666665,1.6666666666666667,Trauma Surgery/Critical Care,,5.0,washu,Midwest,7,99
+122,R_3256iXRAW6T68YV,3.1666666666666665,4.333333333333333,3.75,4.0,2.3333333333333335,Plastics Surgery,,15.0,virginiamason,West,10,24
+123,R_32JhyFZbxUbckic,3.0,3.5,2.5,3.0,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Endocrine Surgery",,4.0,washu,Midwest,7,99
+124,R_33ds7o7P5V2FTAY,3.1666666666666665,3.8333333333333335,4.25,4.0,1.0,Thoracic Surgery,,3.0,washu,Midwest,7,99
+125,R_38fWn4nWrwLvQgp,2.5,3.3333333333333335,3.25,2.0,2.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,31.0,lahey,Northeast,1,38
+126,R_3CDvHm3ifyUhxdp,1.0,4.666666666666667,3.0,1.0,1.0,Breast Surgery,,38.0,virginiamason,West,10,24
+127,R_3EGajxIKH3YTubJ,2.1666666666666665,3.8333333333333335,2.25,1.6666666666666667,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery",Department Chair,33.0,lahey,Northeast,1,38
+128,R_3EcBXpXxH3Fao16,2.8333333333333335,3.3333333333333335,3.0,4.333333333333333,1.0,Trauma Surgery/Critical Care,Program Director (or Assistant Program Director),,vanderbilt,Southeast,4,88
+129,R_3Ed8uhovlsRVJYq,3.5,4.833333333333333,4.5,3.6666666666666665,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Breast Surgery,Cardiac Surgery,Colon and Rectal Surgery,Endocrine Surgery,Hepatopancreaticobiliary Surgery,Pediatric Surgery,Surgical Oncology,Vascular Surgery,Thoracic Surgery,Trauma Surgery/Critical Care",,2.0,washu,Midwest,7,99
+130,R_3Egxk6TdU3acfaa,3.3333333333333335,5.666666666666667,4.0,3.3333333333333335,1.6666666666666667,Thoracic Surgery,,25.0,washu,Midwest,7,99
+131,R_3GjqtqfCjl8E7z7,3.6666666666666665,3.1666666666666665,2.75,3.3333333333333335,2.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Trauma Surgery/Critical Care",,,vanderbilt,Southeast,4,88
+132,R_3Gqcswr53rgE6g6,3.1666666666666665,4.666666666666667,4.75,4.333333333333333,2.3333333333333335,Colon and Rectal Surgery,,3.0,washu,Midwest,7,99
+133,R_3GrkOWBpB09cgN4,5.0,4.833333333333333,3.25,5.0,1.6666666666666667,Trauma Surgery/Critical Care,,7.0,washu,Midwest,7,99
+134,R_3HUebyczQyM05mV,1.1666666666666667,5.0,2.0,1.0,2.3333333333333335,Colon and Rectal Surgery,,13.0,northwestern,Midwest,5,58
+135,R_3I3ujBMAXA1w50G,3.8333333333333335,4.5,4.75,5.0,1.3333333333333333,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Trauma Surgery/Critical Care",,12.0,washu,Midwest,7,99
+136,R_3J9r4IvIy66tBhV,2.3333333333333335,4.333333333333333,3.5,5.0,1.3333333333333333,Endocrine Surgery,,20.0,northwestern,Midwest,5,58
+137,R_3JDfe2Ia02SxZnl,4.0,4.166666666666667,4.25,5.0,2.0,Plastics Surgery,,4.0,texastech,Southwest,6,27
+138,R_3JKOa78EdjcMvGc,5.0,5.0,3.75,5.0,2.0,Other,,0.15,cornell,Northeast,2,49
+139,R_3JsVq4SxhJ7N77Q,1.0,1.0,1.5,1.0,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Breast Surgery,Endocrine Surgery,Surgical Oncology",,,lahey,Northeast,1,38
+140,R_3KolgpRC8kMoTeu,2.3333333333333335,4.5,3.25,3.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),33.0,cornell,Northeast,2,49
+141,R_3KotdALI6hAQecj,2.8333333333333335,4.0,4.0,1.3333333333333333,1.0,Thoracic Surgery,Program Director (or Assistant Program Director),5.0,ucsf,West,9,123
+142,R_3KxsI7XvqtYgZwK,1.1666666666666667,4.166666666666667,2.0,3.3333333333333335,2.0,Vascular Surgery,,20.0,washu,Midwest,7,99
+143,R_3LXyOCJD89Dne6c,3.6666666666666665,4.666666666666667,3.75,4.0,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,1.0,northwestern,Midwest,5,58
+144,R_3MGTBYLBsa4VvcI,2.6666666666666665,3.6666666666666665,4.25,4.0,2.0,Pediatric Surgery,Department Chair,,vanderbilt,Southeast,4,88
+145,R_3NHQ5DNvN0vBPDY,5.0,4.666666666666667,4.75,5.0,3.6666666666666665,Abdominal Wall/Hernia Surgery,,3.0,virginiamason,West,10,24
+146,R_3O7j5HCRPjvtOT4,3.0,4.666666666666667,3.75,3.6666666666666665,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),20.0,ucsf,West,9,123
+147,R_3P77ogJCsXMLrkG,3.5,5.0,4.0,3.0,1.6666666666666667,Pediatric Surgery,,20.0,washu,Midwest,7,99
+148,R_3PjouE8FUpWk7pt,5.0,5.333333333333333,4.75,5.0,2.6666666666666665,Colon and Rectal Surgery,Department Chair,25.0,lahey,Northeast,1,38
+149,R_3Pzges8qo3I0CSi,2.3333333333333335,5.0,4.5,4.0,1.3333333333333333,Pediatric Surgery,,16.0,ucsf,West,9,123
+150,R_3QKrtQnVePoaoZA,2.6666666666666665,5.5,3.25,4.666666666666667,1.3333333333333333,Colon and Rectal Surgery,,5.0,virginiamason,West,10,24
+151,R_3dXmj7M29TwPkQE,1.8333333333333333,5.0,4.25,3.3333333333333335,1.6666666666666667,Endocrine Surgery,,4.0,washu,Midwest,7,99
+152,R_3e9yDL1dsJXFnZo,4.666666666666667,4.833333333333333,5.0,4.333333333333333,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Bariatric/Minimally Invasive Surgery",,29.0,vanderbilt,Southeast,4,88
+153,R_3ew21VBTSFHvZfG,4.0,4.666666666666667,4.5,3.6666666666666665,1.6666666666666667,Endocrine Surgery,Department Chair,22.0,vanderbilt,Southeast,4,88
+154,R_3g11P1lUjVkrlvn,4.0,4.166666666666667,3.5,4.0,1.3333333333333333,Thoracic Surgery,,2.5,northwestern,Midwest,5,58
+155,R_3hFudgXE3gQSbBg,4.666666666666667,5.0,4.75,5.0,2.6666666666666665,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Breast Surgery,Colon and Rectal Surgery,Endocrine Surgery,Hepatopancreaticobiliary Surgery,Pediatric Surgery,Plastics Surgery,Surgical Oncology,Thoracic Surgery,Trauma Surgery/Critical Care",,18.0,ucsf,West,9,123
+156,R_3hgWtBfuCmPnTIc,4.666666666666667,4.666666666666667,5.0,5.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Breast Surgery,Colon and Rectal Surgery,Endocrine Surgery,Hepatopancreaticobiliary Surgery,Pediatric Surgery,Surgical Oncology,Thoracic Surgery,Trauma Surgery/Critical Care",,18.0,ucsf,West,9,123
+157,R_3hlLW31yXVB5CHU,3.5,4.666666666666667,4.5,4.0,2.0,"Breast Surgery,Pediatric Surgery,Trauma Surgery/Critical Care,Other",,15.0,ucsf,West,9,123
+158,R_3k0Mxhl0GqzW01Q,3.1666666666666665,3.5,3.25,4.666666666666667,2.0,Abdominal Wall/Hernia Surgery,,13.0,vanderbilt,Southeast,4,88
+159,R_3kH69Vk2aGDnz1m,1.0,5.0,3.25,5.0,1.0,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,,lahey,Northeast,1,38
+160,R_3lQ9XGCjTS9fO7t,4.5,3.8333333333333335,4.0,4.666666666666667,1.6666666666666667,Colon and Rectal Surgery,Program Director (or Assistant Program Director),13.0,cornell,Northeast,2,49
+161,R_3n3ihzImRtyUSlA,1.3333333333333333,6.0,4.0,5.0,3.6666666666666665,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Hepatopancreaticobiliary Surgery,Vascular Surgery,Transplant Surgery,Other",,10.0,virginiamason,West,10,24
+162,R_3n7AoqNYrAEX7x0,1.5,4.666666666666667,4.75,2.6666666666666665,2.6666666666666665,Other,,37.0,ucsf,West,9,123
+163,R_3nAh7XklzVzKNUs,1.8333333333333333,5.166666666666667,2.0,3.0,1.3333333333333333,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",,19.0,cornell,Northeast,2,49
+164,R_3nTmUri7WoL1aOw,2.3333333333333335,5.833333333333333,4.75,2.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Endocrine Surgery",,26.0,washu,Midwest,7,99
+165,R_3nivVyUGNwAmGgl,2.8333333333333335,3.6666666666666665,3.25,3.6666666666666665,1.0,Breast Surgery,,9.0,ucsf,West,9,123
+166,R_3nkeXM71TuGtXY7,3.8333333333333335,3.8333333333333335,3.5,4.666666666666667,1.0,Bariatric/Minimally Invasive Surgery,,17.0,lehigh,Northeast,3,55
+167,R_3p4OgeusRkyKJC4,2.0,4.666666666666667,4.5,5.0,1.6666666666666667,Breast Surgery,,20.0,northwestern,Midwest,5,58
+168,R_3polofbo2dbEr3Z,2.5,4.666666666666667,4.75,4.0,1.6666666666666667,"Hepatopancreaticobiliary Surgery,Transplant Surgery",,22.0,vanderbilt,Southeast,4,88
+169,R_3qeBJ1IW4jlSS3n,1.6666666666666667,4.0,3.75,3.0,1.0,Hepatopancreaticobiliary Surgery,Program Director (or Assistant Program Director),46.0,ucsf,West,9,123
+170,R_3qgtBMFFkjHX8hq,3.0,3.6666666666666665,3.5,4.666666666666667,1.3333333333333333,Bariatric/Minimally Invasive Surgery,Program Director (or Assistant Program Director),15.0,vanderbilt,Southeast,4,88
+171,R_3qmqyRyKqIQ1O3H,2.0,3.5,2.5,3.0,1.0,Surgical Oncology,Program Director (or Assistant Program Director),8.0,vanderbilt,Southeast,4,88
+172,R_3qyqSUxKSDrEbv6,2.1666666666666665,4.833333333333333,3.0,5.0,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),7.0,vanderbilt,Southeast,4,88
+173,R_3r0BFqeVcWKjckD,3.0,3.5,2.5,3.0,2.0,Transplant Surgery,,1.0,washu,Midwest,7,99
+174,R_3yEntaGLn9D8mIN,2.5,4.833333333333333,4.0,4.333333333333333,1.6666666666666667,Breast Surgery,,30.0,northwestern,Midwest,5,58
+175,R_5tDgSd6XfVXHefL,4.666666666666667,4.0,3.75,5.0,2.0,Endocrine Surgery,,20.0,ucsf,West,9,123
+176,R_6LQTpDF99cMnTgZ,4.333333333333333,5.333333333333333,4.0,5.0,3.0,Vascular Surgery,"Department Chair,Program Director (or Assistant Program Director)",30.0,lahey,Northeast,1,38
+177,R_6lg5NvipUsF30t3,3.0,4.0,2.25,4.0,2.0,Trauma Surgery/Critical Care,,1.0,washu,Midwest,7,99
+178,R_6tYa59Tv4zOhQgp,2.0,3.5,4.25,2.0,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,,ucsf,West,9,123
+179,R_7NUyXyZ1p76BYad,3.1666666666666665,4.833333333333333,2.25,3.0,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Department Chair,23.0,northwestern,Midwest,5,58
+180,R_7PbnGOA09AbAlMZ,4.333333333333333,4.5,3.5,5.0,1.3333333333333333,Breast Surgery,Program Director (or Assistant Program Director),17.0,washu,Midwest,7,99
+181,R_7QYh6bTyOmOQo3D,2.5,4.5,3.75,4.0,2.3333333333333335,Pediatric Surgery,,1.0,ucsf,West,9,123
+182,R_8CEZCL8jPSQBC1j,3.3333333333333335,5.5,1.75,1.6666666666666667,1.3333333333333333,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Department Chair,23.0,northwestern,Midwest,5,58
+183,R_9nUzzlmxsBmD31L,3.6666666666666665,4.0,3.5,5.0,2.0,Endocrine Surgery,Program Director (or Assistant Program Director),16.0,ucsf,West,9,123
+184,R_AA2QAsjxWke1z2x,3.0,5.166666666666667,3.75,5.0,1.6666666666666667,"Breast Surgery,Surgical Oncology",,20.0,washu,Midwest,7,99
+185,R_AssUgqlZQVHuQLL,2.6666666666666665,4.5,3.0,3.0,1.0,Bariatric/Minimally Invasive Surgery,Program Director (or Assistant Program Director),26.0,washu,Midwest,7,99
+186,R_BS1ZehVXZKWIKv7,2.3333333333333335,4.666666666666667,3.25,5.0,1.6666666666666667,Trauma Surgery/Critical Care,,25.0,lehigh,Northeast,3,55
+187,R_DH8yKSr53EhL9TP,2.6666666666666665,3.5,2.0,4.333333333333333,2.3333333333333335,Other,Department Chair,22.0,cornell,Northeast,2,49
+188,R_Oex4oqrWR7dOYkp,2.3333333333333335,3.8333333333333335,3.25,3.0,1.3333333333333333,Other,Program Director (or Assistant Program Director),15.0,texastech,Southwest,6,27
+189,R_OkFgYjnWV7vLdmx,2.5,5.5,4.5,2.0,2.6666666666666665,Colon and Rectal Surgery,,28.0,virginiamason,West,10,24
+190,R_PCEtQ1TO25SUCXv,1.8333333333333333,4.5,2.5,4.333333333333333,1.0,"Abdominal Wall/Hernia Surgery,Bariatric/Minimally Invasive Surgery",,6.0,northwestern,Midwest,5,58
+191,R_PCIAHqBPdGfla6t,3.1666666666666665,3.6666666666666665,4.25,4.0,1.0,Cardiac Surgery,,21.0,ucsf,West,9,123
+192,R_PML7XAVKkG0hh4d,3.8333333333333335,4.5,3.5,5.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Colon and Rectal Surgery",,3.0,lahey,Northeast,1,38
+193,R_QcOxkjNgaHiGIg1,2.6666666666666665,4.333333333333333,4.25,3.6666666666666665,1.3333333333333333,Breast Surgery,,32.0,northwestern,Midwest,5,58
+194,R_Qh1HxO1KFRChkYN,1.8333333333333333,4.5,3.25,4.333333333333333,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery",,20.0,washu,Midwest,7,99
+195,R_QhNnooIIztQ2ZlD,4.0,3.1666666666666665,3.75,4.0,2.3333333333333335,Acute Care Surgery/Emergency General Surgery,,5.0,und,Midwest,8,11
+196,R_RDgsBQuNAN6zJh7,3.3333333333333335,4.166666666666667,4.25,4.666666666666667,1.3333333333333333,"Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,3.0,ucsf,West,9,123
+197,R_RmqehIh3UYZhHiN,4.5,4.0,5.0,5.0,1.6666666666666667,Trauma Surgery/Critical Care,Program Director (or Assistant Program Director),,northwestern,Midwest,5,58
+198,R_SAGjKHTTYgM0vap,3.1666666666666665,5.333333333333333,4.25,5.0,2.0,Abdominal Wall/Hernia Surgery,Program Director (or Assistant Program Director),9.0,vanderbilt,Southeast,4,88
+199,R_SUz7eT5rFdus8pP,3.8333333333333335,4.166666666666667,4.0,4.666666666666667,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery",,3.0,washu,Midwest,7,99
+200,R_T5GlIuTg9cZZOW5,4.166666666666667,4.833333333333333,4.5,5.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),7.0,cornell,Northeast,2,49
+201,R_ThcMkgoJj9g2Vax,2.1666666666666665,4.5,3.25,2.6666666666666665,1.0,Vascular Surgery,Department Chair,35.0,lahey,Northeast,1,38
+202,R_UDPM1PtsBh56b8B,2.8333333333333335,5.166666666666667,3.0,4.666666666666667,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Hepatopancreaticobiliary Surgery,Surgical Oncology,Transplant Surgery",,35.0,vanderbilt,Southeast,4,88
+203,R_UKkNGT4Bn95ORjP,2.1666666666666665,3.8333333333333335,3.75,3.0,1.3333333333333333,Vascular Surgery,,30.0,lahey,Northeast,1,38
+204,R_Ua86DkiyOqbCBSp,4.666666666666667,5.0,3.75,5.0,1.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery,Endocrine Surgery",,32.0,lahey,Northeast,1,38
+205,R_UhFGPOiFQyiD7lD,1.3333333333333333,6.0,2.25,1.0,1.0,Surgical Oncology,Department Chair,23.0,washu,Midwest,7,99
+206,R_VW3yMx7UXlvV34R,2.8333333333333335,4.0,3.25,4.0,1.6666666666666667,Cardiac Surgery,,,northwestern,Midwest,5,58
+207,R_XG77v0gB5vp4bgB,2.6666666666666665,4.5,3.5,4.666666666666667,1.0,Colon and Rectal Surgery,Program Director (or Assistant Program Director),4.0,cornell,Northeast,2,49
+208,R_XOpigBJlgrfT6W5,3.5,4.0,3.0,4.666666666666667,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Hepatopancreaticobiliary Surgery",Program Director (or Assistant Program Director),16.0,washu,Midwest,7,99
+209,R_XmQE5DWDvXp2WGd,1.8333333333333333,3.8333333333333335,2.25,3.6666666666666665,1.6666666666666667,Hepatopancreaticobiliary Surgery,,6.0,cornell,Northeast,2,49
+210,R_XtyH5hQvA3GzYop,3.5,4.666666666666667,4.75,5.0,2.0,Bariatric/Minimally Invasive Surgery,,7.0,washu,Midwest,7,99
+211,R_XzhJVEHKpVJNZpn,1.1666666666666667,3.5,4.0,1.6666666666666667,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Hepatopancreaticobiliary Surgery",Program Director (or Assistant Program Director),12.0,lehigh,Northeast,3,55
+212,R_ZgFUjGq9Y4stI41,1.0,3.0,2.75,3.0,1.0,"Abdominal Wall/Hernia Surgery,Breast Surgery",,31.0,cornell,Northeast,2,49
+213,R_ZsNmilpVTREaUEx,1.1666666666666667,3.3333333333333335,1.75,2.3333333333333335,1.0,Vascular Surgery,Program Director (or Assistant Program Director),32.0,washu,Midwest,7,99
+214,R_Zt98xiUdY2M5kcN,1.8333333333333333,6.0,3.5,1.3333333333333333,4.0,"Acute Care Surgery/Emergency General Surgery,Plastics Surgery,Trauma Surgery/Critical Care",,25.0,lehigh,Northeast,3,55
+215,R_a5cpvMWPsINsCIh,3.5,4.666666666666667,3.75,5.0,1.0,Colon and Rectal Surgery,,7.0,vanderbilt,Southeast,4,88
+216,R_b1vT1A6XQQohx8l,2.0,4.166666666666667,4.0,2.3333333333333335,1.3333333333333333,Colon and Rectal Surgery,,23.0,ucsf,West,9,123
+217,R_b90CMdBj6iQqLU5,2.3333333333333335,5.166666666666667,4.75,1.6666666666666667,2.0,Endocrine Surgery,,23.0,washu,Midwest,7,99
+218,R_dbX201lruYaENR7,1.1666666666666667,3.1666666666666665,2.5,3.6666666666666665,2.0,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Trauma Surgery/Critical Care",,4.0,lehigh,Northeast,3,55
+219,R_eDUve5ckkd1fhpT,2.8333333333333335,4.166666666666667,3.25,4.0,1.3333333333333333,Trauma Surgery/Critical Care,,5.0,vanderbilt,Southeast,4,88
+220,R_qCakSsa3qVx6bYd,5.0,4.666666666666667,4.75,5.0,2.3333333333333335,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Colon and Rectal Surgery,Hepatopancreaticobiliary Surgery,Vascular Surgery,Trauma Surgery/Critical Care",Program Director (or Assistant Program Director),4.0,northwestern,Midwest,5,58
+221,R_r3gOWTtVPw1MJNv,3.6666666666666665,4.833333333333333,3.5,4.0,1.6666666666666667,Colon and Rectal Surgery,,,vanderbilt,Southeast,4,88
+222,R_saQqkPLD6gCzE2t,4.0,5.666666666666667,3.0,5.0,1.3333333333333333,Surgical Oncology,,10.0,und,Midwest,8,11
+223,R_shxDQuuusF0Td4J,5.0,5.0,2.75,5.0,1.0,Colon and Rectal Surgery,Program Director (or Assistant Program Director),,washu,Midwest,7,99
+224,R_sp3hfKBEOZVf7qx,3.6666666666666665,4.5,3.5,4.0,2.6666666666666665,"Abdominal Wall/Hernia Surgery,Acute Care Surgery/Emergency General Surgery,Bariatric/Minimally Invasive Surgery",,15.0,ucsf,West,9,123
+225,R_tJTpjTikzXsi5MZ,2.8333333333333335,4.666666666666667,4.75,5.0,1.3333333333333333,"Breast Surgery,Surgical Oncology",Program Director (or Assistant Program Director),8.0,vanderbilt,Southeast,4,88
+226,R_uaW8pwWcqkRvBDz,3.1666666666666665,5.0,4.5,4.333333333333333,2.0,Colon and Rectal Surgery,Program Director (or Assistant Program Director),20.0,washu,Midwest,7,99
+227,R_uxkZThumLbhLE3L,4.666666666666667,4.5,3.75,5.0,1.6666666666666667,"Abdominal Wall/Hernia Surgery,Bariatric/Minimally Invasive Surgery",,1.0,vanderbilt,Southeast,4,88
+228,R_vHXlARDFRaRQBbj,3.3333333333333335,4.333333333333333,4.0,5.0,1.0,Colon and Rectal Surgery,Program Director (or Assistant Program Director),10.0,lahey,Northeast,1,38
+229,R_xEZj3pUGXDMZIfT,2.5,4.666666666666667,4.0,2.0,1.0,Pediatric Surgery,Program Director (or Assistant Program Director),7.0,lehigh,Northeast,3,55
+230,R_xfkBbyTOTvXvcIh,4.166666666666667,4.833333333333333,4.75,4.666666666666667,2.3333333333333335,Trauma Surgery/Critical Care,Program Director (or Assistant Program Director),16.0,cornell,Northeast,2,49
+231,R_xtj6kSyUbUDql7r,1.5,5.0,3.75,4.333333333333333,1.0,"Abdominal Wall/Hernia Surgery,Plastics Surgery",Department Chair,25.0,northwestern,Midwest,5,58
+232,R_xzJ4K6id78A5y2B,1.0,4.166666666666667,1.75,3.0,2.3333333333333335,Vascular Surgery,,23.0,washu,Midwest,7,99

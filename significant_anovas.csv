@@ -1,0 +1,10 @@
+,key,factor,F,p,significant
+0,demographic_distribution,attitude,2.8198372554526,0.0036286888285635083,True
+0,demographic_distribution,education,2.0658113199642374,0.03335401104444209,True
+0,demographic_us_region,attitude,5.546118680236894,0.0002745185346852239,True
+0,demographic_acs_trauma_region,attitude,2.8198372554526,0.0036286888285635083,True
+0,demographic_acs_trauma_region,education,2.0658113199642374,0.03335401104444209,True
+0,demographic_years_in_practice_group,willingness,3.837753820171853,0.004883736143061151,True
+0,demographic_years_in_practice_group,cash_incentives,5.607080993847352,0.0002555023866264757,True
+0,demographic_program_size,cash_incentives,4.058748052851536,0.018449925082704554,True
+0,demographic_leadership,education,5.234947647874295,0.02298997723085103,True
